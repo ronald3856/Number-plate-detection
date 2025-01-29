@@ -1,0 +1,4 @@
+emission_id,plate_id,emission_date,emission_level,emission_standard
+1,1,2023-06-10,1.2,Euro 6
+2,2,2023-05-15,1.8,Euro 5
+3,3,2023-08-20,2.5,Euro 4

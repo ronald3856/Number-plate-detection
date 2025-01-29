@@ -1,0 +1,4 @@
+plate_id,plate_number,owner_name,vehicle_type,registration_date
+1,ABC1234,John Doe,Sedan,2020-05-15
+2,XYZ5678,Jane Smith,SUV,2019-03-22
+3,LMN9876,Mike Johnson,Truck,2021-11-10

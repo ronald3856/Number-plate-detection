@@ -1,0 +1,4 @@
+fine_id,plate_id,fine_date,fine_amount,fine_reason,is_paid
+1,1,2024-01-05,200.0,Speeding,True
+2,2,2024-02-12,300.0,Emission Violation,False
+3,3,2024-03-08,150.0,Parking Violation,False
